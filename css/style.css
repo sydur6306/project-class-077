@@ -4,7 +4,7 @@
 	box-sizing: border-box;
 }
 body{
-	background: #df3207;
+	background: #a4dd3c;
 }
 section{
     padding: 100px 0px;
@@ -23,11 +23,10 @@ section{
     padding: 20px;
 }
 h1{
-    font-size: 30px;
-    color: #ecb551;
+   color: #021217fc;
     margin-bottom: 20px;
     font-size: 37px;
-    font-weight: 600;
+    font-weight: 900;
 }
 a{
     padding: 50px 20px;
@@ -36,13 +35,16 @@ a{
     text-align: center;
     text-decoration: none;
     border-radius: 0px;
-background: #df3207;
-box-shadow:  20px 20px 56px #be2b06, 
-             -20px -20px 56px #ff3a08;
+border-radius: 25px;
+background: #a4dd3c;
+box-shadow:  20px 20px 60px #8bbc33, 
+             -20px -20px 60px #bdfe45;
 }
 .col:hover{
-	box-shadow:  44px 44px 56px #be2b06, 
-             -44px -33px 56px #ff3a08;
+	border-radius: 25px;
+background: #a4dd3c;
+box-shadow:  40px 40px 60px #8bbc33, 
+             -40px -40px 60px #bdfe45;
 }
 img{
 	max-width:100%;
